@@ -1,0 +1,19 @@
+
+×
+9
+android*http://schemas.android.com/apk/res/androidLinearLayout"U
+*http://schemas.android.com/apk/res/androidid@+id/map"(Ğ„2
+í€ øid/map"`
+*http://schemas.android.com/apk/res/androidlayout_heightfill_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ"_
+*http://schemas.android.com/apk/res/androidlayout_widthfill_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ*
+
+    
+    )*Ğ
+Ç#com.google.android.gms.maps.MapView"]
+*http://schemas.android.com/apk/res/androidid@+id/mapview"(Ğ„2
+î€ ø
+id/mapview"`
+*http://schemas.android.com/apk/res/androidlayout_heightfill_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ"_
+*http://schemas.android.com/apk/res/androidlayout_widthfill_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ*
+ 
+.
